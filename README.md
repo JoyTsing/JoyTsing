@@ -1,13 +1,14 @@
-### Hi there 👋 This is JoyTsing ！✨ 
- 
+### Hi there <img src="https://raw.githubusercontent.com/JoyTsing/JoyTsing/master/wave.gif" width="30px" height="30px" />
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JoyTsing/)
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joytsing@163.com)
 [![blog](https://img.shields.io/badge/Blog-2D80BF?logo=hexo&logoColor=310A80&link=https%3A%2F%2Fjoytsing.cn)](https://joytsing.cn/)
 
+This is JoyTsing ！✨ Perhaps a daydreamer, perhaps a thinker, or perhaps nothing at all.
+
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="50%" height="auto" />
 
 ### 🧐 More About Me:
-- 👋 Hi, I’m @JoyTsing, a student from china.
 - 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology,
     - And I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
 - 🌱 I’m currently learning modern cpp.
