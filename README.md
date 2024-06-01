@@ -8,7 +8,8 @@
 
 ### 🧐 More About Me:
 - 👋 Hi, I’m @JoyTsing, a student from china.
-- 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology. and I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
+- 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology.
+- - And I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
 - 🌱 I’m currently learning modern cpp.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 💬 Ask me about anything tech related, I am happy to help.
@@ -20,9 +21,9 @@
 <img width="10%" src="https://simpleicons.org/icons/cplusplus.svg">
 <img width="10%" src="https://simpleicons.org/icons/docker.svg">
 <br />
-<code><img width="10%" src="https://simpleicons.org/icons/git.svg"></code>
-<code><img width="10%" src="https://simpleicons.org/icons/redis.svg"></code>
-<code><img width="10%" src="https://simpleicons.org/icons/mysql.svg"></code>
+<img width="10%" src="https://simpleicons.org/icons/git.svg">
+<img width="10%" src="https://simpleicons.org/icons/redis.svg">
+<img width="10%" src="https://simpleicons.org/icons/mysql.svg">
 </p>
 
 If you want to know more, please refer to the my [website](https://joytsing.cn).
