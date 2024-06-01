@@ -10,7 +10,7 @@ This is JoyTsing ！✨ Perhaps a daydreamer, perhaps a thinker, or perhaps noth
 
 ### 🧐 More About Me:
 - 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology,
-    - And I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
+    - 📈And I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
 - 🌱 I’m currently learning modern cpp.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 💬 Ask me about anything tech related, I am happy to help.
