@@ -4,7 +4,7 @@
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](joytsing@163.com)
 [![blog](https://img.shields.io/badge/my_blog-38C8DE)](https://www.linkedin.com/in/lina-zhang-58440b101/)
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="30%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
 
 ### 🧐 More About Me:
 - 👋 Hi, I’m @JoyTsing, a student from china.
