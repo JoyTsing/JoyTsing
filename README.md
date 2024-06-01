@@ -10,8 +10,8 @@
 - 👋 Hi, I’m @JoyTsing, a student from china.
 - 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology. and I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
 - 🌱 I’m currently learning modern cpp.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on Github
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 👨🏻‍💻 Most of my projects are available on Github.
+- 💬 Ask me about anything tech related, I am happy to help.
 
 ### 🔨 Languages and Tools:
 <p>
