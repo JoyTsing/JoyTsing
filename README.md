@@ -6,7 +6,7 @@
 
 This is JoyTsing ！✨ Perhaps a daydreamer, perhaps a thinker, or perhaps nothing at all.
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
 
 ### 🧐 More About Me:
 - 👀 I’m graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology,
