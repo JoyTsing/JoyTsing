@@ -16,9 +16,9 @@
 ### 🔨 Languages and Tools:
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JoyTsing&show_icons=true&count_private=true&hide_border=true" />
-<code><img width="10%" src="https://simpleicons.org/icons/ubuntu.svg"></code>
-<code><img width="10%" src="https://simpleicons.org/icons/cplusplus.svg"></code>
-<code><img width="10%" src="https://simpleicons.org/icons/docker.svg"></code>
+<img width="10%" src="https://simpleicons.org/icons/ubuntu.svg">
+<img width="10%" src="https://simpleicons.org/icons/cplusplus.svg">
+<img width="10%" src="https://simpleicons.org/icons/docker.svg">
 <br />
 <code><img width="10%" src="https://simpleicons.org/icons/git.svg"></code>
 <code><img width="10%" src="https://simpleicons.org/icons/redis.svg"></code>
