@@ -2,7 +2,7 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JoyTsing/)
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joytsing@163.com)
-[![blog](https://img.shields.io/badge/my_blog-38C8DE)](https://joytsing.cn/)
+[![blog](https://img.shields.io/badge/Blog-38C8DE)](https://joytsing.cn/)
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="50%" height="auto" />
 
