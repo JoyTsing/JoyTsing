@@ -1,10 +1,10 @@
 ### Hi there 👋 This is JoyTsing ！✨ 
  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zhanglina94)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JoyTsing/)
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](joytsing@163.com)
-[![blog](https://img.shields.io/badge/my_blog-38C8DE)](https://www.linkedin.com/in/lina-zhang-58440b101/)
+[![blog](https://img.shields.io/badge/my_blog-38C8DE)](https://joytsing.cn/)
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="80%" height="auto" />
 
 ### 🧐 More About Me:
 - 👋 Hi, I’m @JoyTsing, a student from china.
@@ -16,7 +16,7 @@
 
 ### 🔨 Languages and Tools:
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JoyTsing&show_icons=true&count_private=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JoyTsing&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
 <img width="10%" src="https://simpleicons.org/icons/ubuntu.svg">
 <img width="10%" src="https://simpleicons.org/icons/cplusplus.svg">
 <img width="10%" src="https://simpleicons.org/icons/docker.svg">
