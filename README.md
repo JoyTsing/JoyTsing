@@ -4,7 +4,9 @@
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joytsing@163.com)
 [![blog](https://img.shields.io/badge/Blog-2D80BF?logo=hexo&logoColor=310A80&link=https%3A%2F%2Fjoytsing.cn)](https://joytsing.cn/)
 
-This is JoyTsing ！✨ Perhaps a daydreamer, perhaps a thinker, or perhaps nothing at all.
+My name Zhu Yiqing ！✨ Perhaps a daydreamer, perhaps a thinker, or perhapsnothing at all.
+* Pronounciation (English approximatio): **chu yee-ching**/**joytsing**
+* If you know IPA, the International Phonetic Alphabet: **ʈʂu˥ ji˥˩ tɕiŋ˥**
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
 
