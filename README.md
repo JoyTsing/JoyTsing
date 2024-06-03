@@ -26,7 +26,7 @@ My name is ZhuYiqing !✨ Perhaps a daydreamer, perhaps a thinker, or perhaps no
 <br />
 <img width="10%" src="https://simpleicons.org/icons/git.svg">
 <img width="10%" src="https://simpleicons.org/icons/redis.svg">
-<img width="10%" src="https://simpleicons.org/icons/mysql.svg">
+<img width="10%" src="https://simpleicons.org/icons/prometheus.svg">
 </p>
 
 If you want to know more, please refer to the my [website](https://joytsing.cn).
