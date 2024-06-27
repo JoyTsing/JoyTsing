@@ -1,4 +1,4 @@
-### Hello, world! <img src="https://raw.githubusercontent.com/JoyTsing/JoyTsing/master/wave.gif" width="30px" height="30px" />
+### Hello, World! <img src="https://raw.githubusercontent.com/JoyTsing/JoyTsing/master/wave.gif" width="30px" height="30px" />
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JoyTsing/)
 [![163](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joytsing@163.com)
