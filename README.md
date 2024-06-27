@@ -19,7 +19,7 @@ My name is ZhuYiqing !✨ Perhaps a daydreamer, perhaps a thinker, or perhaps no
 
 ### 🔨 Languages and Tools:
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JoyTsing&show_icons=true&count_private=true&hide_border=true&theme=city_lights" />
+<img width="50%" align="right" src="https://readme-stats-server-jackcc.vercel.app/api?username=JoyTsing&show_icons=true&count_private=true&hide_border=true&theme=city_lights" />
 <img width="10%" src="https://simpleicons.org/icons/ubuntu.svg">
 <img width="10%" src="https://simpleicons.org/icons/cplusplus.svg">
 <img width="10%" src="https://simpleicons.org/icons/docker.svg">
