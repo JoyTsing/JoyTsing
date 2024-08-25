@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/Blog-2D80BF?logo=hexo&logoColor=310A80&link=https%3A%2F%2Fjoytsing.cn)](https://joytsing.cn/)
 
 My name is ZhuYiqing !✨ Perhaps a daydreamer, perhaps a prisoner of the cage, or perhaps nothing at all.
-* Pronounciation (English approximatio): **chu yee-ching** / **joytsing**
+* Pronounciation (English approximatio): **chu yee-ching** / **joy-tsing**
 * If you know IPA, the International Phonetic Alphabet: **ʈʂu˥ ji˥˩ tɕiŋ˥**
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
