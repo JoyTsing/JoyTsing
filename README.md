@@ -11,8 +11,8 @@ My name is ZhuYiqing !✨ Perhaps a daydreamer, perhaps a prisoner of the cage, 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/JoyTsing/JoyTsing.github.io/master/medias/banner/0.jpg" width="60%" height="auto" />
 
 ### 🧐 More About Me:
-- 👀 I graduated from UESTC with a bachelor's degree in 2022, majoring in Computer Science and Technology,
-    - 📈And I am currently studying at XDU, pursuing a Master's degree in Computer Science and Technology.
+- 👀 I graduated from UESTC with a Bachelor's degree in 2022, majoring in Computer Science and Technology,
+    - 📈And I am graduated from XDU with a Master's degree in Computer Science and Technology.
 - 🌱 I’m currently learning modern cpp.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 💬 Ask me about anything tech related, I am happy to help.
